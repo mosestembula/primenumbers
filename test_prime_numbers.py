@@ -1,7 +1,7 @@
 """Unit tests for prime_numbers module."""
 
 import unittest
-from prime_numbers import prime_numbers
+from prime_numbers import primenumbers
 
 
 class TestPrimeGenerator(unittest.TestCase):
