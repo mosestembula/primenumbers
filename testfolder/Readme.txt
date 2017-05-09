@@ -1,0 +1,2 @@
+This function produces prime numbers for a given input n. The numbers so produced include the nth number if it is prime.
+Due to algorithmic consideration, a while loop was used against a for loop for the outer function. whether it was implemented correctly oor otherwise, the while loop is the main consideration given this kind of task only that it has to be implemented correctly. In this case, the functioon works fiine
